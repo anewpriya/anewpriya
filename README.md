@@ -8,7 +8,7 @@
 
 ## About Me
 
-I bridge technical depth and strategic vision. I've shipped products at every stage—from 0-to-1 MVPs to scaling systems handling 13M+ queries. My background spans user feedback loops (Haptik, pre-$100M acquisition), go-to-market execution (Exponentia.ai), and product strategy (Eduxskills, Ooumph).
+I bridge technical depth and strategic vision. I've shipped products at every stage, from 0-to-1 MVPs to scaling systems handling 13M+ queries. My background spans user feedback loops (Haptik, pre-$100M acquisition), go-to-market execution (Exponentia.ai), and product strategy (Eduxskills, Ooumph).
 
 Currently exploring AI product innovation and rapid validation with real users.
 
@@ -18,11 +18,11 @@ Currently exploring AI product innovation and rapid validation with real users.
 
 ## Tech Stack & Skills
 
-**Product:** Roadmapping · Backlog Prioritisation · PRD Writing · Sprint Planning · OKR/KPI Definition · MVP Scoping · Stakeholder Management
+**Product:** Roadmapping · Backlog Prioritisation · PRD & User Story Writing · Sprint Planning · OKR/KPI Definition · MVP Scoping · QA & Release · Stakeholder Management
 
-**Technical:** Python · FastAPI · SQL · PostgreSQL · Kafka · Redis · Docker · Kubernetes · APIs · LangChain · AWS
+**Technical:** Python · FastAPI · RESTful · SQL · JSON/XML · ETL · PostgreSQL · Kafka · Redis · Docker · Kubernetes · APIs · LangChain · AWS · Postman
 
-**Tools:** Jira · Figma · Notion · Looker · Google Analytics · Metabase
+**Tools:** Jira · Figma · Notion · Looker · Google Analytics · Metabase · Confluence · ProductBoard · Mixpanel · PowerBI
 
 ---
 
