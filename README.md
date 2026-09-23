@@ -1,6 +1,6 @@
 # Hi, I'm Anupriya 👋
 
-**Product Manager & AI Builder | Building products where technical depth meets market clarity
+Product Manager & AI Builder | Building products where technical depth meets market clarity
 
 🌍 Based in Paris, France | 8+ years in B2B SaaS & Conversational AI
 
