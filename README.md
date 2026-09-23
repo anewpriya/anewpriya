@@ -1,6 +1,6 @@
-# Hi, I'm Anupriya Singh 👋
+# Hi, I'm Anupriya 👋
 
-**Product Manager & Technical Builder** | Building AI-driven products that solve real problems at scale
+**Product Manager & AI Builder | Building products where technical depth meets market clarity
 
 🌍 Based in Paris, France | 8+ years in B2B SaaS & Conversational AI
 
@@ -8,21 +8,23 @@
 
 ## About Me
 
-I bridge technical depth and strategic vision. I've shipped products at every stage, from 0-to-1 MVPs to scaling systems handling 13M+ queries. My background spans user feedback loops (Haptik, pre-$100M acquisition), go-to-market execution (Exponentia.ai), and product strategy (Eduxskills, Ooumph).
+I bridge technical execution and strategic product thinking. I build products from 0-to-1, translate technical capability into clear buyer language, and lead cross-functional teams through rapid iteration cycles.
 
-Currently exploring AI product innovation and rapid validation with real users.
+Currently: Exploring AI product innovation, rapid user validation, and how to position complex products so people actually understand them.
 
 **MSc Project Management** | SKEMA Business School, Paris
 
 ---
 
-## Tech Stack & Skills
+## Product & Technical Skills
 
-**Product:** Roadmapping · Backlog Prioritisation · PRD & User Story Writing · Sprint Planning · OKR/KPI Definition · MVP Scoping · QA & Release · Stakeholder Management
+**Product Strategy & Execution:** Roadmapping · Backlog Prioritisation · PRD Writing · Sprint Planning · OKRs/KPIs · MVP Scoping · QA & Release · Stakeholder Management
 
-**Technical:** Python · FastAPI · RESTful · SQL · JSON/XML · ETL · PostgreSQL · Kafka · Redis · Docker · Kubernetes · APIs · LangChain · AWS · Postman
+**GTM & Positioning:** Go-to-Market Strategy · Product Positioning & Messaging · Sales Enablement · Competitive Intelligence · Community & Partner Enablement
 
-**Tools:** Jira · Figma · Notion · Looker · Google Analytics · Metabase · Confluence · ProductBoard · Mixpanel · PowerBI
+**Technical:** Python · FastAPI · RESTful APIs · SQL · PostgreSQL · Kafka · Redis · Docker · Kubernetes · LangChain · AWS · JSON/XML · ETL
+
+**Tools:** Jira · Figma · Notion · Looker · Google Analytics · Metabase · Confluence · ProductBoard · Mixpanel · Power BI
 
 ---
 
@@ -57,7 +59,7 @@ Exploratory analysis of survival patterns and key factors.
 
 ## Let's Connect
 
-**Portfolio:** [anewpriya.vercel.app](https://anewpriya.vercel.app)  
+**Website:** [anewpriya.com](https://www.anewpriya.com)  
 **LinkedIn:** [linkedin.com/in/anewpriya](https://www.linkedin.com/in/anewpriya/)  
 **Email:** anewpriya@gmail.com
 
