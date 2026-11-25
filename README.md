@@ -1,68 +1,29 @@
-# Hi, I'm Anupriya 👋
+# Anupriya Singh
 
-Product Manager & AI Builder | Building products where technical depth meets market clarity
+**Product Marketing & Product Management | B2B SaaS, AI & Digital Platforms**
 
-🌍 Based in Paris, France | 8+ years in B2B SaaS & Conversational AI
+Paris, France · 8+ years of professional experience · Full-stack engineering background
 
----
+I bring together technical product development, customer insight and go-to-market strategy. My experience spans conversational AI, enterprise data platforms and 0-to-1 product development, from discovery and delivery to positioning, adoption and iteration.
 
-## About Me
+MSc in Project Management for Business Development — SKEMA Business School, Paris.
 
-I bridge technical execution and strategic product thinking. I build products from 0-to-1, translate technical capability into clear buyer language, and lead cross-functional teams through rapid iteration cycles.
+## Selected portfolio
 
-Currently: Exploring AI product innovation, rapid user validation, and how to position complex products so people actually understand them.
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| Vexor AI Business Case | Independent case study exploring AI automation economics, customer segmentation and a 90-day pilot. Figures are illustrative, not company or client data. | [Interactive model](https://anewpriya.github.io/vexor-case-study/) · [Repository](https://github.com/anewpriya/vexor-case-study) |
+| SaaS Customer Retention Analytics | Customer behaviour analysis, retention opportunities and lifecycle recommendations using a static dataset of 2,000 synthetic customer records. | [Repository](https://github.com/anewpriya/sales-analytics-dashboard) |
+| Klaro Energy Savings Estimator | Independent product prototype exploring energy contract savings and assistance eligibility, with a French-language interface and documented requirements. Estimates are illustrative and based on dated assumptions. | [Prototype](https://anewpriya.github.io/klaro-energie-estimateur/) · [Repository](https://github.com/anewpriya/klaro-energie-estimateur) |
+| Event-Driven Fintech Payment System | Technical prototype exploring payment processing, fraud scoring, distributed architecture and reliability trade-offs. Performance figures are design targets, not verified production results. | [Repository](https://github.com/anewpriya/fintech-payment-system) |
 
-**MSc Project Management** | SKEMA Business School, Paris
+## Core capabilities
 
----
+- **Product marketing:** Positioning and messaging, go-to-market strategy, competitive intelligence, sales enablement, lifecycle marketing and partner ecosystems.
+- **Product management:** Discovery, roadmap prioritisation, requirements, MVP development, product analytics and experimentation.
+- **Technical:** Python, SQL, REST APIs, React, Django, Elasticsearch, conversational AI, NLP and retrieval-augmented generation (RAG).
+- **Prototyping:** Claude Code, Claude Design and hands-on software development.
 
-## Product & Technical Skills
+## Connect
 
-**Product Strategy & Execution:** Roadmapping · Backlog Prioritisation · PRD Writing · Sprint Planning · OKRs/KPIs · MVP Scoping · QA & Release · Stakeholder Management
-
-**GTM & Positioning:** Go-to-Market Strategy · Product Positioning & Messaging · Sales Enablement · Competitive Intelligence · Community & Partner Enablement
-
-**Technical:** Python · FastAPI · RESTful APIs · SQL · PostgreSQL · Kafka · Redis · Docker · Kubernetes · LangChain · AWS · JSON/XML · ETL
-
-**Tools:** Jira · Figma · Notion · Looker · Google Analytics · Metabase · Confluence · ProductBoard · Mixpanel · Power BI
-
----
-
-## Featured Projects
-
-### 🏦 Fintech Payment System
-Production-grade payment processing with multi-tier fraud detection, optimistic locking, and Kubernetes deployment.
-- **Impact:** 10K concurrent transactions, 93% fraud accuracy
-- **Tech:** Python, FastAPI, PostgreSQL, Kafka, Docker, Kubernetes
-- **Repo:** [fintech-payment-system](https://github.com/anewpriya/fintech-payment-system)
-
-### ⚡ Klaro Energie Estimateur
-Interactive energy savings estimator prototype.
-- **Tech:** HTML, CSS, JavaScript
-- **Repo:** [klaro-energie-estimateur](https://github.com/anewpriya/klaro-energie-estimateur)
-
-### 📊 Titanic Data Analysis
-Exploratory analysis of survival patterns and key factors.
-- **Tech:** Python, Pandas, Scikit-learn
-- **Repo:** [titanic-data-analysis](https://github.com/anewpriya/titanic-data-analysis)
-
----
-
-## What I'm Building Now
-
-🔨 AI product prototypes exploring:
-- Rapid validation with users
-- Iteration from feedback
-- Product thinking in action
-
----
-
-## Let's Connect
-
-**Website:** [anewpriya.com](https://www.anewpriya.com)  
-**LinkedIn:** [linkedin.com/in/anewpriya](https://www.linkedin.com/in/anewpriya/)  
-**Email:** anewpriya@gmail.com
-
----
-
-*Open to conversations about product strategy, AI innovation, and building with great teams.*
+[LinkedIn](https://www.linkedin.com/in/anewpriya/) · [Website](https://www.anewpriya.com) · [Email](mailto:anewpriya@gmail.com)
