@@ -13,7 +13,7 @@ MSc in Project Management for Business Development — SKEMA Business School, Pa
 | Project | What it demonstrates | Explore |
 | --- | --- | --- |
 | Vexor AI Business Case | Independent case study exploring AI automation economics, customer segmentation and a 90-day pilot. Figures are illustrative, not company or client data. | [Interactive model](https://anewpriya.github.io/vexor-case-study/) · [Repository](https://github.com/anewpriya/vexor-case-study) |
-| SaaS Customer Retention Analytics | Customer behaviour analysis, retention opportunities and lifecycle recommendations using a static dataset of 2,000 synthetic customer records. | [Repository](https://github.com/anewpriya/sales-analytics-dashboard) |
+| SaaS Retention Intelligence | Customer behaviour analysis, retention opportunities and lifecycle recommendations using a static dataset of 2,000 synthetic customer records. | [Live dashboard](https://anewpriya.github.io/sales-analytics-dashboard/) · [Repository](https://github.com/anewpriya/sales-analytics-dashboard) |
 | Klaro Energy Savings Estimator | Independent product prototype exploring energy contract savings and assistance eligibility, with a French-language interface and documented requirements. Estimates are illustrative and based on dated assumptions. | [Prototype](https://anewpriya.github.io/klaro-energie-estimateur/) · [Repository](https://github.com/anewpriya/klaro-energie-estimateur) |
 | Event-Driven Fintech Payment System | Technical prototype exploring payment processing, fraud scoring, distributed architecture and reliability trade-offs. Performance figures are design targets, not verified production results. | [Repository](https://github.com/anewpriya/fintech-payment-system) |
 
